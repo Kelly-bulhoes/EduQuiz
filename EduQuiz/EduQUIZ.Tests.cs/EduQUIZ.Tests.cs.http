@@ -1,0 +1,6 @@
+@EduQUIZ.Tests.cs_HostAddress = http://localhost:5071
+
+GET {{EduQUIZ.Tests.cs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
